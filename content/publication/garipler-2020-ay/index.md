@@ -9,7 +9,7 @@ authors:
 - Garipler, Görkem
 - Lu, Congyi
 - Morrissey, Alexis
-- Lopez-Zepeda, Lorena S
+- admin
 - Vidal, Simon E
 - Aydin, Begüm
 - Stadtfeld, Matthias
@@ -63,7 +63,7 @@ POL II at pro-differentiation genes
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
