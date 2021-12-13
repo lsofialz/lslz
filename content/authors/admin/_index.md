@@ -10,7 +10,7 @@ role: PhD Student Computational Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Berlin Institute for Medical Systems Biology (BIMSB)ß
+- name: Berlin Institute for Medical Systems Biology (BIMSB)
   url: https://www.mdc-berlin.de/bimsb#t-about
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sofia.lozepeda@gmail.com"
@@ -70,4 +70,4 @@ highlight_name: false
 
 After finishing my medical degree and figuring out my true calling for research I m oved to Berlin to do a Master in Molecular Medicine at the Charite. I then joined the MDC/NYU exchange program for my PhD studies. Durign my PhD I studied how to use the new technology of CRISPR pooled screens to study several elements of gene regulation. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
