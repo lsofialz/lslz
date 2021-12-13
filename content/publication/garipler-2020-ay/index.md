@@ -39,23 +39,7 @@ publication_types: ["3"]
 publication: bioRxiv
 # publication_short: In *ICW*
 
-abstract: In pluripotent cells, a delicate activation-repression balance
-maintains pro-differentiation genes ready for rapid activation.
-The identity of transcription factors (TFs) that specifically
-repress pro-differentiation genes remains obscure. By targeting
-~1,700 TFs with CRISPR loss-of-function screen, we found that
-ZBTB11 and ZFP131 are required for embryonic stem cell (ESC)
-pluripotency. ZBTB11 and ZFP131 maintain promoter-proximally
-paused Polymerase II at pro-differentiation genes in ESCs. ZBTB11
-or ZFP131 loss leads to NELF pausing factor release, an increase
-in H3K4me3, and transcriptional upregulation of genes associated
-with all three germ layers. Together, our results suggest that
-ZBTB11 and ZFP131 maintain pluripotency by preventing premature
-expression of pro-differentiation genes and present a
-generalizable framework to maintain cellular potency.
-One-sentence summary A Transcription Factor-wide CRISPR screen
-identifies ZBTB11 and ZFP131 maintaining pluripotency by pausing
-POL II at pro-differentiation genes
+abstract: In pluripotent cells, a delicate activation-repression balance maintains pro-differentiation genes ready for rapid activation. The identity of transcription factors (TFs) that specifically repress pro-differentiation genes remains obscure. By targeting ~1,700 TFs with CRISPR loss-of-function screen, we found that ZBTB11 and ZFP131 are required for embryonic stem cell (ESC) pluripotency. ZBTB11 and ZFP131 maintain promoter-proximally paused Polymerase II at pro-differentiation genes in ESCs. ZBTB11 or ZFP131 loss leads to NELF pausing factor release, an increase in H3K4me3, and transcriptional upregulation of genes associated with all three germ layers. Together, our results suggest that ZBTB11 and ZFP131 maintain pluripotency by preventing premature expression of pro-differentiation genes and present a generalizable framework to maintain cellular potency. One-sentence summary A Transcription  actor-wide CRISPR screen identifies ZBTB11 and ZFP131 maintaining pluripotency by pausing POL II at pro-differentiation genes.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
