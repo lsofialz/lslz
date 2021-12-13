@@ -19,11 +19,11 @@ feature:
 - description: base R, Tidyverse, and Shiny App development
   icon: r-project
   icon_pack: fab
-  name: R
-- description: Basic sripting
+  name: R language
+- description: Scripting
   icon: python
   icon_pack: fab
-  name: Statistic
+  name: Python
 - description: Molecular methods and CRISPR screening
   icon: vials
   icon_pack: fas
