@@ -10,7 +10,7 @@ role: PhD Student Computational Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Berlin Institute for Medical Systems Biology (BIMSB)
+- name: Berlin Institute for Medical Systems Biology (BIMSB)ß
   url: https://www.mdc-berlin.de/bimsb#t-about
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,12 +57,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sofia.lozepeda@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
