@@ -50,7 +50,7 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
+links:
  - name: bioRxv
    url: https://www.biorxiv.org/content/10.1101/2020.11.23.391771v1
 
