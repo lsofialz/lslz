@@ -55,9 +55,7 @@ expression of pro-differentiation genes and present a
 generalizable framework to maintain cellular potency.
 One-sentence summary A Transcription Factor-wide CRISPR screen
 identifies ZBTB11 and ZFP131 maintaining pluripotency by pausing
-POL II at pro-differentiation genes ### Competing Interest
-Statement N.E.S. is an adviser to Vertex. S.E.V is a current
-employee of Genentech.
+POL II at pro-differentiation genes
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -69,8 +67,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+ - name: bioRxv
+   url: https://www.biorxiv.org/content/10.1101/2020.11.23.391771v1
 
 url_pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.23.391771v1.full.pdf'
 url_code: ''
