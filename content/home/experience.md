@@ -74,7 +74,7 @@ experience:
     location: Mexico City, Mexico
     date_start: '2007-07-01'
     date_end: '2012-09-15'
-    description: Modeling Circadian Rhythms in Peripheral Tissues
+    description: 
 
 design:
   columns: '2'

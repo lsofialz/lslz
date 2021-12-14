@@ -20,7 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Computational Biology
 - Regulatory Genomics
-- Gene Editing
+- Stem cell biology
 
 
 # Education to show in About widget

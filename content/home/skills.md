@@ -28,10 +28,10 @@ feature:
   icon: vials
   icon_pack: fas
   name: Wet lab
-- description: Basic web development
+- description: HTML & CSS
   icon: html5
   icon_pack: fab
-  name: Webdev
+  name: Front end development
 - description: familiar with *nix operating systems and bash scripting
   icon: linux
   icon_pack: fab
